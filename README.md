@@ -14,9 +14,9 @@ Musico is more than just a regular music player, Musico features the ability to 
 - [ ] Implement a settings to choose whether to show per-file file metadata.
 
 ## Keyboard Shortcuts (New)
-Play/pause: <kbd>Space</kbd>
-Next track: <kbd>🠊</kbd>
-Previous track: <kbd>🠈</kbd>
+Next track: <kbd>🠊</kbd>/<kbd>l</kbd>
+Play/pause: <kbd>Space</kbd>/<kbd>k</kbd>
+Previous track: <kbd>🠈</kbd>/<kbd>j</kbd>
 
 ## Want to support the project?
 Consider donating to us at [PayPal](paypal.me/richiedevs)
