@@ -13,12 +13,16 @@ Musico is more than just a regular music player, Musico features the ability to 
 - [ ] Implement themes
 - [ ] Implement a settings to choose whether to show per-file file metadata.
 
+## Keyboard Shortcuts (New)
+Play/pause: <kbd>Space</kbd>
+Next track: <kbd>🠊</kbd>
+Previous track: <kbd>🠈</kbd>
 
 ## Want to support the project?
 Consider donating to us at [PayPal](paypal.me/richiedevs)
 
-## Want to become a sponsor?
-Message me on discord (Richiedev#5462) to establish a sponsorship with our project
+## Want to become a sponsor and be listed on this page?
+Contact me on discord (Richiedev#5462) to discuss a sponsorship for the project
 
 ## Found an issue or bug?
 Submit an new issue [here](https://github.com/richiedevs/musico/issues/new)
