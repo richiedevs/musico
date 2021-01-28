@@ -7,7 +7,7 @@ Play/pause: <kbd>Space</kbd>/<kbd>k</kbd>
 Previous track: <kbd>🠈</kbd>/<kbd>j</kbd>
 
 ## Want to support the project?
-Consider donating to us at [PayPal](paypal.me/richiedevs) or becoming a sponsor and get listed on this page
+Consider donating to us at [PayPal](https://paypal.me/richiedevs) or becoming a sponsor and get listed on this page
 
 ## Contact us
 Join our discord [here](https://discord.gg/XtdV6ZBavU) or contact me on discord (Richiedev#5462)
